@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+icon: fas fa-user
 permalink: /about/
 ---
 
@@ -19,8 +20,9 @@ Currently studying Information Systems and enjoy learning new things, especially
 
 ---
 ## 🌐 Connect With Me:
-- [GitHub](https://github.com/AthifahNurRahmanMD)  
+- [GitHub](https://github.com/athifaahnr)  
 - [Email Me](mailto:mdanr23h@student.unhas.ac.id)  
-- [Instagram](https://www.instagram.com/atfhnr_/)
+- [Instagram](https://www.instagram.com/athifaahnr/)
+- [LinkedIn](https://www.linkedin.com/in/athifah-n-rahman-184164353)
 
 ---
